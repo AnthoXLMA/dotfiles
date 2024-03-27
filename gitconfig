@@ -47,5 +47,10 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = contact@service-lite-plus.com
-	name = antho mani
+	email = anthonymania1982@gmail.com
+	name = Anthony Nama
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
