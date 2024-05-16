@@ -47,8 +47,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = anthonymania1982@gmail.com
-	name = Anthony Nama
+	email = amj2544@tutanota.com
+	name = Anthony Mania
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
